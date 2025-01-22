@@ -12,6 +12,15 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
+            <a href="https://stmichaelreno.org/docs/bulletins/Bulletin.pdf" target="_blank">Bulletin</a>
+          </li>
+          <li>
+            <a href="https://www.stmichaelreno.org/" target="_blank">Saint Michaels</a>
+          </li>
+          <li>
+            <a href="https://www.usccb.org/resources/2024cal.pdf" target="_blank">Catholic Church Liturgical Calendar</a>
+          </li>
+          <li>
             <Link href='/posts'>Posts</Link>
           </li>
           <li>
