@@ -15,6 +15,12 @@ function MainNavigation() {
           <Link href='/massabielle'>Massabielle</Link>
           </li>
           <li>
+          <Link href='/saintbernadettemovie'>Saint Bernadette</Link>
+          </li>
+          <li>
+          <Link href='/gospelofjohn'>Gospel of John</Link>
+          </li>
+          <li>
             <a href="https://stmichaelreno.org/docs/bulletins/Bulletin.pdf" target="_blank">Bulletin</a>
           </li>
           <li>
@@ -23,12 +29,12 @@ function MainNavigation() {
           <li>
             <a href="https://www.usccb.org/resources/2024cal.pdf" target="_blank">Catholic Church Liturgical Calendar</a>
           </li>
-          <li>
+          {/* <li>
             <Link href='/posts'>Posts</Link>
           </li>
           <li>
             <Link href='/contact'>Contact</Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </header>
