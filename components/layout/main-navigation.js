@@ -12,6 +12,9 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
+          <Link href='/massabielle'>Massabielle</Link>
+          </li>
+          <li>
             <a href="https://stmichaelreno.org/docs/bulletins/Bulletin.pdf" target="_blank">Bulletin</a>
           </li>
           <li>
