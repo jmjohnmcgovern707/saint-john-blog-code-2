@@ -11,6 +11,9 @@ function MainNavigation() {
       </Link>
       <nav>
         <ul>
+        <li>
+          <Link href='/JesusesVoice'>JesusesVoice</Link>
+          </li>
           <li>
           <Link href='/massabielle'>Massabielle</Link>
           </li>
