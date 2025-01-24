@@ -12,7 +12,7 @@ function MainNavigation() {
       <nav>
         <ul>
         <li>
-          <Link href='/JesusesVoice'>JesusesVoice</Link>
+          <Link href='/JesusesVoice'>Precious Voice Of Jesus</Link>
           </li>
           <li>
           <Link href='/massabielle'>Massabielle</Link>
